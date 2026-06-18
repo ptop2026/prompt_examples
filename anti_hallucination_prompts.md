@@ -1,13 +1,13 @@
 # Anti-hallucination prompts
 
 ## Check if your prompt is being read
-#### Confirm your prompt is still being read completely - At the start of your prompt
+#### Confirm your prompt is still being read completely - Add at the start of your prompt
 ```text
 Always start every response by addressing me as [your name]
 ```
 
 ## Review results 
-#### Examples of what to add to the end of the prompt to help reduce errors. Use the ones relevant to your prompt.
+#### Examples to add at the end of a prompt to help reduce errors. Use the ones relevant to what your are trying to do.
 ```text
 - Review content and ensure there are no errors, contradictions, or unverified information
 - Double-check your results to confirm they are correct. Flag any potential errors and report them to me
@@ -19,7 +19,7 @@ Always start every response by addressing me as [your name]
 ```
 
 ## Prompt examples to reduce any potential hallucinations
-### These are snippets that will force review of content and help produce rails for your review. Use the ones relevant to your prompt. 
+#### These snippets will force a review of content and help produce rails for your review. Use the ones relevant to your prompt. 
 ```text
 Guardrails:
 - Review content and ensure there are no errors, contradictions, or unverified information
@@ -28,6 +28,7 @@ Guardrails:
 - Do not add any additional information outside of what has been provided
 - Flag missing prerequisites explicitly
 - Remove any source that an AI has created
+- Add more from above or other sources as needed
 ```
 
 # Specific examples
