@@ -1,7 +1,7 @@
 # Various Prompt Examples
 This repo is specifically for providing a growing library of prompts to be shared amongst the AI community. 
 
-[Results Checker](https://github.com/ptop2026/prompt_examples/blob/main/ResultCheckers.md) - Examples for confirming prompts are being read and content is correct
+[Anti-hallucination skill Checker](https://github.com/ptop20/prompt_examples/blob/main/anti_hallucination_prompts.md) - Examples for confirming prompts are being read and content is correct
 
 Here are other prompt links for reference:
 https://github.com/johrenberger/genaiPrompts/tree/main
