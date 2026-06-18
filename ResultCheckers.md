@@ -1,13 +1,13 @@
 # Prompt Snippets
 
 ## Check if your prompt is being read
-### Confirm your prompt is still being read completely - At the start of your prompt
+#### Confirm your prompt is still being read completely - At the start of your prompt
 ```text
 Always start every response by addressing me as [your name]
 ```
 
 ## Review results 
-### Examples of what to add to the end of the prompt to help reduce errors. Use the ones relevant to your prompt.
+#### Examples of what to add to the end of the prompt to help reduce errors. Use the ones relevant to your prompt.
 ```text
 - Review content and ensure there are no errors, contradictions, or unverified information
 - Double-check your results to confirm they are correct. Flag any potential errors and report them to me
