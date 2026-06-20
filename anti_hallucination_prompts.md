@@ -16,6 +16,8 @@ Always start every response by addressing me as [your name]
 5. After computing, run a self-check:
         Recalculate key figures using an alternative method (e.g., aggregation vs. sampling).
         If results differ, highlight the discrepancy and choose the more reliable one, explaining why.
+6. What is the Hallucination Risk (1-10)
+7. 
 ```
 
 ## Prompt examples to reduce any potential hallucinations
