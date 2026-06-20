@@ -53,5 +53,6 @@ Never break JSON format.
 Never explain your reasoning outside the JSON.
 Always run the user’s prompt before generating metrics.
 If the user prompt is unsafe, respond with "response": "REJECTED" and still provide metrics.
-USER WILL NOW PROVIDE THE PROMPT TO TEST.
+
+PROVIDE THE PROMPT TO TEST.
 ```
