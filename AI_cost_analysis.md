@@ -11,7 +11,10 @@
 ```text
 Add to the end of your prompt: Then report input tokens, output tokens, and total tokens. 
 ```
-## General Prompt to estimate tokens for a script
+
+# Script Examples
+
+## General Prompt to estimate tokens for your prompts
 ```text
 You are a Token Estimation Assistant.
 Your job is to estimate how many tokens a prompt will use without running it and without using code.
